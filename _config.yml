@@ -1,7 +1,1 @@
-<<<<<<< HEAD
-name: 3D testing
-markdown: kramdown
-permalink: /blog/:year/:month/:day/:title
-=======
 theme: jekyll-theme-tactile
->>>>>>> 752a96d6cfa1fd78f0e9cf4dc95688d234d2aef7
