@@ -1,1 +1,19 @@
-theme: jekyll-theme-slate
+# Permalinks
+#
+# Use of `relative_permalinks` ensures post links from the index work properly.
+permalink:           pretty
+#relative_permalinks: true
+
+# Setup
+title:               Colin P. Stark
+tagline:             'Geophysicist, scientific programmer and data analyst'
+description:         'Colin P. Starks''s Homepage'
+url:                 '/tmp'
+baseurl:             '/tmp'
+paginate:            8
+
+# About/contact
+author:
+  name:             Colin P. Stark
+  url:              http://cstarknyc.github.io/tmp
+  email:            cstarknyc@gmail.com
