@@ -6,14 +6,14 @@ permalink:           pretty
 
 # Setup
 title:               Colin P. Stark
-tagline:             'Geophysicist, scientific programmer and data analyst'
+tagline:             'Geoscientist, data analyst & scientific programmer'
 description:         'Colin P. Starks''s Homepage'
-url:                 '/tmp'
-baseurl:             '/tmp'
+url:                 '/'
+baseurl:             '/'
 paginate:            8
 
 # About/contact
 author:
   name:             Colin P. Stark
-  url:              http://cstarknyc.github.io/tmp
+  url:              http://cstarknyc.github.io/
   email:            cstarknyc@gmail.com
