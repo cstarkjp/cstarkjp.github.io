@@ -6,4 +6,4 @@ lc_title: about
 
 TBD
 
-![CPS](http://cstarknyc.github.io/TBD.jpg)
+![CPS](http://cstarkjp.github.io/TBD.jpg)
