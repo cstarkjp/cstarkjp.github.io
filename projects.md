@@ -6,6 +6,10 @@ lc_title: projects
 
 # OLD PAGE: under revision
 
+ * Radio rocks
+ * Salt
+ * Frenet meanders
+
 
 ## Streamline mapping of topographic structure
 
