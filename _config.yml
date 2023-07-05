@@ -19,8 +19,8 @@ author:
   email:            cstarkjp@gmail.com
 
 # Trying to ensure immediate posting of changes
-# future: true
+future: true
 # # Need to switch to TW if editing there
-# timezone: JP
+timezone: JP
 
 # Rerun here: https://github.com/cstarkjp/cstarkjp.github.io/actions/runs/5459527428
