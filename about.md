@@ -4,6 +4,6 @@ title: About
 lc_title: about
 ---
 
-TBD
+Update in progress
 
-![CPS](http://cstarkjp.github.io/TBD.jpg)
+<!-- ![CPS](http://cstarkjp.github.io/TBD.jpg) -->
