@@ -17,3 +17,5 @@ author:
   name:             Colin P. Stark
   url:              http://cstarkjp.github.io/
   email:            cstarkjp@gmail.com
+
+future: true
